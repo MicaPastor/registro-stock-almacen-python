@@ -2,7 +2,7 @@
 
 Este programa permite registrar el stock de productos en un almacén, organizados en cuatro categorías principales:
 
-- Alimentos secos
+- Alimentos
 - Productos de limpieza
 - Bebidas y lácteos
 - Otros
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ---
 
 ## 📁 Archivos del proyecto
-
+```
 proyecto/
 │
 ├── main.py               # Menú principal del programa
@@ -76,7 +76,7 @@ proyecto/
 │
 ├── README.md             # Documentación del proyecto
 └── requirements.txt      # Librerías necesarias
-
+```
 ---
 
 ## 👩‍💻 Desarrollado por
