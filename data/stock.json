@@ -1,0 +1,95 @@
+{
+    "gaseosa(pepsi) - 1l": {
+        "nombre": "gaseosa",
+        "marca": "pepsi",
+        "presentacion": "1l",
+        "cantidad": 80,
+        "unidad": "L",
+        "precio": 2000.0,
+        "stock_minimo": 10.0,
+        "vencimiento": "15/07/2030",
+        "fecha_ingreso": "15/07/1015",
+        "categoria": "Bebidas y Lácteos"
+    },
+    "chocolate(milka) - 200gr": {
+        "nombre": "chocolate",
+        "marca": "milka",
+        "presentacion": "200gr",
+        "cantidad": 16.0,
+        "unidad": "",
+        "precio": 3000.0,
+        "stock_minimo": 20.0,
+        "vencimiento": "17/07/2025",
+        "fecha_ingreso": "15/07/2025",
+        "categoria": "Alimentos"
+    },
+    "harina(morixe) - 1k": {
+        "nombre": "harina",
+        "marca": "morixe",
+        "presentacion": "1k",
+        "cantidad": 40,
+        "unidad": "unidades",
+        "precio": 1000.0,
+        "stock_minimo": 10.0,
+        "vencimiento": "20/07/2025",
+        "fecha_ingreso": "15/07/2025",
+        "categoria": "Alimentos"
+    },
+    "agua(glaciar) - 1l": {
+        "nombre": "agua",
+        "marca": "glaciar",
+        "presentacion": "1l",
+        "cantidad": 50,
+        "unidad": "unidades",
+        "precio": 2000.0,
+        "stock_minimo": 10.0,
+        "vencimiento": "04/08/2025",
+        "fecha_ingreso": "15/07/2025",
+        "categoria": "Bebidas y Lácteos"
+    },
+    "Lavandina(Ayudin) - 500ml": {
+        "nombre": "Lavandina",
+        "marca": "Ayudin",
+        "presentacion": "500ml",
+        "cantidad": 50,
+        "unidad": "unidades",
+        "precio": 2000.0,
+        "stock_minimo": 10.0,
+        "vencimiento": "16/07/2026",
+        "fecha_ingreso": "16/07/2025",
+        "categoria": "Limpieza"
+    },
+    "Jamón(Paladini) - 200gr": {
+        "nombre": "Jamón",
+        "marca": "Paladini",
+        "presentacion": "200gr",
+        "cantidad": 10,
+        "precio": 1000.0,
+        "stock_minimo": 9,
+        "vencimiento": "30/07/2025",
+        "fecha_ingreso": "16/07/2025",
+        "categoria": "Otros"
+    },
+    "detergente(cif) - 1l": {
+        "nombre": "detergente",
+        "marca": "cif",
+        "presentacion": "1l",
+        "cantidad": 10,
+        "precio": 2000.0,
+        "stock_minimo": 10,
+        "vencimiento": "16/07/2025",
+        "fecha_ingreso": "16/07/2025",
+        "categoria": "Limpieza"
+    },
+    "Azúcar(Genérica) - 1kg": {
+        "nombre": "Azúcar",
+        "marca": "Genérica",
+        "presentacion": "1kg",
+        "cantidad": 30,
+        "precio": 1000.0,
+        "stock_minimo": 10,
+        "vencimiento": "10/07/2030",
+        "fecha_ingreso": "16/07/2025",
+        "categoria": "Otros"
+    }
+}

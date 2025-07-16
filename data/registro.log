@@ -1,0 +1,42 @@
+[12/07/2025 19:45:19] Se agregó el producto 'Yerba' (30.0 kg) a categoría 'Alimentos secos'.
+[12/07/2025 20:02:59] Se agregó el producto '6778hhjy jjjl jjjhjdhg  hgtydyjt' (18.0 litros) a categoría 'Alimentos secos'.
+[13/07/2025 10:54:52] Se agregó el producto 'Agua' (60.0 litros) a categoría 'Bebidas y lácteos'.
+[13/07/2025 11:27:23] Se agregó el producto 'detergente' (50.0 litros) a categoría 'Productos de limpieza'.
+[13/07/2025 11:31:16] Se agregó el producto 'Lavandina' (80.0 ml) a categoría 'Productos de limpieza'.
+[13/07/2025 18:22:22] Se agregó el producto 'papel higienico' (80.0 unidad) a categoría 'Productos de limpieza'.
+[13/07/2025 19:25:29] Se actualizó el producto 'Yerba' (Sumar stock).
+[13/07/2025 19:25:58] Se actualizó el producto 'detergente' (Restar stock).
+[13/07/2025 19:35:42] Se actualizó el producto '6778hhjy jjjl jjjhjdhg  hgtydyjt' (Sumar stock).
+[13/07/2025 20:37:13] Se actualizó el producto 'papel higienico' (Actualizar precio).
+[14/07/2025 20:32:33] Se agregó el producto 'yogur' (40.0 unidad) a categoría 'Bebidas y lácteos'.
+[14/07/2025 20:35:31] Se editó el producto 'yogur' (Fecha de vencimiento actualizado).
+[14/07/2025 20:35:42] Se eliminó el producto '6778hhjy jjjl jjjhjdhg  hgtydyjt' (chees).
+[14/07/2025 20:39:10] Se agregó el producto 'gaseosa' (60.0 unidad) a categoría 'Bebidas y lácteos'.
+[15/07/2025 19:12:33] Producto Agua agregado o actualizado.
+[15/07/2025 19:13:58] Producto Sal agregado o actualizado.
+[15/07/2025 20:13:09] 🆕 Se agregó un nuevo producto: 'Agua(Villavicencio) - 500ml'.
+[15/07/2025 21:01:31] 🆕 Se agregó un nuevo producto: 'gaseosa(pepsi) - 1l'.
+[15/07/2025 21:08:01] 🆕 Se agregó un nuevo producto: 'agua(glaciar) - 1l'.
+[15/07/2025 21:08:21] Se editó el producto 'agua' (Fecha de vencimiento actualizado).
+[15/07/2025 21:15:33] 🗑 Producto eliminado: 'agua(glaciar) - 1l' (glaciar)
+[15/07/2025 21:15:55] ✏️ Producto editado: 'Agua(Villavicencio) - 500ml' (campo: Precio)
+[15/07/2025 21:16:26] ✏️ Producto editado: 'Agua(Villavicencio) - 500ml' (campo: Cantidad)
+[15/07/2025 21:17:31] 🆕 Se agregó un nuevo producto: 'chocolate(milka) - 200gr'.
+[15/07/2025 21:56:17] 🆕 Se agregó un nuevo producto: 'harina(morixe) - 1k'.
+[15/07/2025 21:58:21] ✏️ Producto editado: 'Agua(Villavicencio) - 500ml' (campo: Cantidad)
+[15/07/2025 22:44:08] 🆕 Se agregó un nuevo producto: 'agua(glaciar) - 1l'.
+[16/07/2025 08:58:06] 🆕 Se agregó un nuevo producto: 'Lavandina(Ayudin) - 500ml'.
+[16/07/2025 09:15:53] 🆕 Se agregó un nuevo producto: 'oreo(oreo) - 500'.
+[16/07/2025 09:18:26] 🗑 Producto eliminado: 'oreo(oreo) - 500' (oreo)
+[16/07/2025 09:19:19] ✏️ Producto editado: 'chocolate(milka) - 200gr' (campo: Marca)
+[16/07/2025 09:21:03] ✏️ Producto editado: 'chocolate(milka) - 200gr' (campo: Cantidad)
+[16/07/2025 09:23:46] ✏️ Producto editado: 'chocolate(milka) - 200gr' (campo: Unidad)
+[16/07/2025 09:24:08] ✏️ Producto editado: 'chocolate(milka) - 200gr' (campo: Cantidad)
+[16/07/2025 12:17:01] 🆕 Se agregó un nuevo producto: 'Detergente(Cif) - 2l'.
+[16/07/2025 12:21:22] 🆕 Se agregó un nuevo producto: '0(0) - 0'.
+[16/07/2025 12:22:20] 🗑 Producto eliminado: '0(0) - 0' (0)
+[16/07/2025 12:23:15] 🗑 Producto eliminado: 'Agua(Villavicencio) - 500ml' (Villavicencio)
+[16/07/2025 12:23:29] 🗑 Producto eliminado: 'Detergente(Cif) - 2l' (Cif)
+[16/07/2025 12:24:59] 🆕 Se agregó un nuevo producto: 'Jamón(Paladini) - 200gr'.
+[16/07/2025 12:25:55] 🆕 Se agregó un nuevo producto: 'detergente(cif) - 1l'.
+[16/07/2025 14:11:23] 🆕 Se agregó un nuevo producto: 'Azúcar(Genérica) - 1kg'.
