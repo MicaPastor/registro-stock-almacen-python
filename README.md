@@ -14,12 +14,10 @@ El sistema permite agregar, editar, eliminar productos y visualizar avisos por v
 ## 🚀 Funcionalidades
 
 - Menú interactivo usando `questionary`
-- Visualización tabulada de productos (`tabulate`)
 - Control por **categoría**
 - Avisos por vencimiento próximo o bajo stock.
 - Registro automático de:
   - Entradas
-  - Salidas
   - Modificaciones
 - Archivos utilizados:
   - `stock.json`: almacena el stock actual
