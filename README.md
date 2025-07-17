@@ -80,5 +80,4 @@ proyecto/
 ## 👩‍💻 Desarrollado por
 
 Micaela Pastor  
-Trabajo Final - Materia: Programación 1  
-Carrera: Tecnicatura en Ciencia de Datos Julio 2025
+
